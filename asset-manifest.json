@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/resumesBuilder/static/css/main.191cf2e0.css",
+    "main.js": "/resumesBuilder/static/js/main.e426032f.js",
+    "static/js/213.82ad6898.chunk.js": "/resumesBuilder/static/js/213.82ad6898.chunk.js",
+    "static/js/455.de82f0bc.chunk.js": "/resumesBuilder/static/js/455.de82f0bc.chunk.js",
+    "static/js/453.6338d20c.chunk.js": "/resumesBuilder/static/js/453.6338d20c.chunk.js",
+    "static/media/resume1.png": "/resumesBuilder/static/media/resume1.b17834a488e39b892b74.png",
+    "static/media/resume2.png": "/resumesBuilder/static/media/resume2.5b5e8fc405754d31aeef.png",
+    "index.html": "/resumesBuilder/index.html",
+    "main.191cf2e0.css.map": "/resumesBuilder/static/css/main.191cf2e0.css.map",
+    "main.e426032f.js.map": "/resumesBuilder/static/js/main.e426032f.js.map",
+    "213.82ad6898.chunk.js.map": "/resumesBuilder/static/js/213.82ad6898.chunk.js.map",
+    "455.de82f0bc.chunk.js.map": "/resumesBuilder/static/js/455.de82f0bc.chunk.js.map",
+    "453.6338d20c.chunk.js.map": "/resumesBuilder/static/js/453.6338d20c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.191cf2e0.css",
+    "static/js/main.e426032f.js"
+  ]
+}
